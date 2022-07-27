@@ -2,6 +2,9 @@
     color: #fa804c;
 }
 .head-image{
-    width: 500px;
-    height: 400px;
+    width: 600px;
+    height: 500px;
+}
+.header-bg{
+    background-color: #fffbf6;
 }
